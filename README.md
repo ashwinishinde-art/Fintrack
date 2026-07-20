@@ -1,2 +1,2 @@
 # Fintrack
-Specialized budgeting tool for user to track their finance records
+Specialized budgeting tool for users to track their finance records.
