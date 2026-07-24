@@ -18,9 +18,9 @@ A personal finance / expense-tracking web app with a category-based budgeting sy
 
 | Layer | Technology |
 |---|---|
-| Frontend | Plain HTML +  JS (`assets/js/app.js`), Tailwind CSS (CDN), Chart.js (CDN, with fallback mirrors), Font Awesome |
+| Frontend | Plain HTML +  JS (`assets/js/app.js`), CSS (CDN), Chart.js (CDN, with fallback mirrors), Font Awesome |
 | Backend | PHP (no framework), PDO for database access |
-| Database | MySQL / MariaDB |
+| Database | MySQL  |
 | Auth | PHP sessions + `password_hash()` / `password_verify()` |
 
 ## Project structure
